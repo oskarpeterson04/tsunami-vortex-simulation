@@ -18,4 +18,4 @@ The models solve the vorticity transport equation derived from shallow water pri
 1. **Requirements**: MATLAB R2024b or later.  
 2. **Download**: Clone this repository.  
    ```bash  
-   git clone https://github.com/yourusername/tsunami-vortices.git  
+   git clone https://github.com/oskarpeterson04/tsunami-vortices.git  
