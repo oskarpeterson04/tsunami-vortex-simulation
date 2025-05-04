@@ -12,7 +12,7 @@ The models solve the vorticity transport equation derived from shallow water pri
 - Four initial vortex configurations (single Gaussian, colliding vortices, multi-vortex system, dipole)  
 - Validation against a high-resolution spectral benchmark  
 - RMSE calculation for accuracy assessment  
-- Visualization scripts for vorticity evolution and performance metrics  
+- Visualisation scripts for vorticity evolution and performance metrics  
 
 ## Installation  
 1. **Requirements**: MATLAB R2024b or later.  
